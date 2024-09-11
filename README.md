@@ -41,7 +41,7 @@ console.log(The bill was `$,` the tip was `$`, and the total value is `$`)
     console.log("Totals: + totals); //Outputs totals data set 2
 
 
-testing
+this is a test
 
 
 
